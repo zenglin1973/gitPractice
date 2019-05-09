@@ -6,3 +6,9 @@ UCHAR signelFire(char* signal){
 
  return true;
 }
+
+// Modification for ticket000011;
+UNIT32 * signalBuff(){
+
+ return NULL; 
+}
