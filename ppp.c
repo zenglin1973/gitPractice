@@ -12,3 +12,9 @@ void releasePppLink(){
 
  return 0;
 }
+
+// This modification is a hotfix without tracked by ticket system;
+void setTestStubPpp(){
+ return 0; 
+}
+
