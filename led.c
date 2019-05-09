@@ -6,3 +6,8 @@ void led_init(UINT32 flag){
 
  return 0;
 }
+
+// Modification for ticket000001;
+void led_sync(){
+ return 0;
+}
