@@ -9,5 +9,6 @@ UCHAR signelFire(char* signal){
 
 // Modification for ticket000011
 UINT32 * signalBuff(){
+ 
  return NULL;
 }
