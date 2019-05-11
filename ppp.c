@@ -18,3 +18,8 @@ void setTestStubPpp(){
  return 0; 
 }
 
+// This funtion is added on master but not on V0100 branch;
+void detectPppStatus(){
+ return 0;
+}
+
