@@ -9,3 +9,9 @@ UINT32 main(){
 
  return 1;
 }
+
+// Modification after V0100 is branched;
+UCHAR * inputCtrl(){
+
+ return NULL;
+}
